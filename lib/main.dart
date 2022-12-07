@@ -1,4 +1,4 @@
-import 'package:animation/home.dart';
+import 'package:animation/home.dart' show Home;
 import 'package:flutter/material.dart';
 
 void main() {
